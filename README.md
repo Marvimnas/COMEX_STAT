@@ -4,8 +4,8 @@ Data treatment using Brazilian International Trade Data.
 # Language: 
 Python
 ## Libraries: 
-Pandas
-drive
+- Pandas
+- drive
 
 
 ------------------------------------
